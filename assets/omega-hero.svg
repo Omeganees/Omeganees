@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+<title id="title">OMEGANEES — Anees Imran. Code with character.</title>
+<desc id="desc">A midnight-blue console with a luminous orbiting omega, fine technical grid, and mint typography.</desc>
+<defs>
+<radialGradient id="halo"><stop stop-color="#125e63" stop-opacity=".55"/><stop offset="1" stop-color="#080e19" stop-opacity="0"/></radialGradient>
+<linearGradient id="ink" x2="1" y2="1"><stop stop-color="#b8ffe3"/><stop offset=".55" stop-color="#6cebd1"/><stop offset="1" stop-color="#72aaff"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#8edfd5" stroke-opacity=".065"/></pattern>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5"/></filter>
+<style>
+.orbit{transform-origin:950px 220px;animation:spin 24s linear infinite}.reverse{animation-direction:reverse;animation-duration:38s}.pulse{animation:breathe 4s ease-in-out infinite}.cursor{animation:blink 1.4s steps(2,end) infinite}
+@keyframes spin{to{transform:rotate(360deg)}}@keyframes breathe{50%{opacity:.35}}@keyframes blink{50%{opacity:0}}
+@media(prefers-reduced-motion:reduce){.orbit,.pulse,.cursor{animation:none}}
+</style>
+</defs>
+<rect width="1200" height="460" rx="20" fill="#080e19"/>
+<rect x="1" y="1" width="1198" height="458" rx="19" fill="url(#grid)" stroke="#263646"/>
+<ellipse cx="950" cy="220" rx="340" ry="280" fill="url(#halo)"/>
+<path d="M40 70H1160M40 390H1160" stroke="#263646"/>
+<g font-family="'Courier New',monospace" font-size="13" letter-spacing="2" fill="#8ca3b8"><text x="44" y="43">PERSONAL SPACE / OMEGANEES</text><text x="1048" y="43">VOL. 01</text></g>
+<circle cx="45" cy="112" r="4" fill="#9affcf" class="pulse"/><text x="60" y="117" fill="#9affcf" font-family="'Courier New',monospace" font-size="13" letter-spacing="3">HELLO, WORLD_</text>
+<text x="40" y="204" fill="#f0f7f8" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="800" letter-spacing="-3">ANEES IMRAN</text>
+<text x="44" y="251" fill="url(#ink)" font-family="Arial,Helvetica,sans-serif" font-size="28" letter-spacing="1">Code with character.</text>
+<text x="44" y="311" fill="#96aabc" font-family="'Courier New',monospace" font-size="16">A little curiosity. A little chaos.</text>
+<text x="44" y="339" fill="#96aabc" font-family="'Courier New',monospace" font-size="16">A whole lot of possibility.</text><rect x="380" y="324" width="9" height="18" fill="#9affcf" class="cursor"/>
+<circle cx="950" cy="220" r="143" fill="none" stroke="#31545f" stroke-width="1"/>
+<circle cx="950" cy="220" r="119" fill="none" stroke="#2f6a6b" stroke-dasharray="2 10"/>
+<g class="orbit"><ellipse cx="950" cy="220" rx="174" ry="62" transform="rotate(-32 950 220)" fill="none" stroke="#7cf7d4" stroke-opacity=".6"/><circle cx="1097" cy="127" r="5" fill="#b6ffe4"/><circle cx="1097" cy="127" r="9" fill="#b6ffe4" filter="url(#glow)"/></g>
+<g class="orbit reverse"><ellipse cx="950" cy="220" rx="168" ry="76" transform="rotate(40 950 220)" fill="none" stroke="#75a8ff" stroke-opacity=".45"/><circle cx="1079" cy="328" r="4" fill="#92bdff"/></g>
+<text x="950" y="272" text-anchor="middle" fill="#69ead2" opacity=".4" filter="url(#glow)" font-family="Georgia,serif" font-size="162">Ω</text>
+<text x="950" y="272" text-anchor="middle" fill="url(#ink)" font-family="Georgia,serif" font-size="162">Ω</text>
+<g fill="#8ca3b8" font-family="'Courier New',monospace" font-size="12" letter-spacing="2"><text x="44" y="426">BUILD / BREAK / REFINE / REPEAT</text><text x="970" y="426">SOFTRUNCH ↗</text></g>
+</svg>
