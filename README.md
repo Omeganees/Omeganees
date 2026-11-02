@@ -1,93 +1,52 @@
 <p align="center">
-  <img src="./assets/omega-hero.svg" width="100%" alt="Anees Imran — Omeganees. Code with character. Animated omega orbits on a midnight grid." />
+<img src="./assets/omega-hero.svg" width="100%" alt="Anees Imran — Omeganees. Code with character. Animated sea-blue omega orbits." />
 </p>
-
 <p align="center">
-  <a href="https://softrunch.com"><strong>SOFTRUNCH ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="mailto:anees.imran@outlook.com"><strong>SAY HELLO ↗</strong></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://github.com/Omeganees?tab=repositories"><strong>EXPLORE ↗</strong></a>
+<a href="https://softrunch.com"><img src="./assets/nav-softrunch.svg" width="32%" alt="Softrunch — visit the studio" /></a>
+<a href="mailto:anees.imran@outlook.com"><img src="./assets/nav-hello.svg" width="32%" alt="Say hello — start a conversation" /></a>
+<a href="https://github.com/Omeganees?tab=repositories"><img src="./assets/nav-explore.svg" width="32%" alt="Explore — follow the curiosity" /></a>
 </p>
 
-<br>
+<img src="./assets/01-human.svg" width="100%" alt="01 / Beneath the surface. The handle is Omeganees. The curiosity is personal. I'm Anees Imran. I like the moment an idea stops being a sketch and starts answering back. A strange little interaction. One detail you almost miss. Then you notice it — and try it again." />
 
-### 01 / THE HUMAN BEHIND THE HANDLE
+<img src="./assets/02-method.svg" width="100%" alt="02 / The build loop. Every good rabbit hole starts with what if? Chase it: start with the idea that will not leave you alone. Make it real: trade a perfect imaginary thing for a working, imperfect one. Give it soul: tune the small details until it feels unmistakable. Useful enough to keep. Strange enough to remember." />
 
-I'm **Anees Imran**. Around here, it's **Omeganees**.
+<img src="./assets/03-linter.svg" width="100%" alt="03 / Completely unofficial incident report. The linter has entered witness protection. Source code detected. Confidence: unreasonable. Warning prepared. Warning reconsidering its career. Developer says: Okay, but hear me out. Curiosity wins. Another experiment begins. Fictional incident. Real commitment to making the details count." />
 
-> Writing code so unhinged that even the linter is scared to throw a warning.
-
-A little irreverence belongs in the source code. A little personality belongs in the interface. Welcome to my corner of the internet.
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⌘ &nbsp; THE SIGNAL
-
-**Code with character.**
-
-Curiosity at the start. Care in the details. Something worth opening twice at the end.
-
-</td>
-<td width="50%" valign="top">
-
-### Ω &nbsp; THE FREQUENCY
-
-**A healthy amount of chaos.**
-
-Question the obvious. Try the strange idea. Keep the part that makes it interesting.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 02 / TRANSMISSION
-
-
-```text
-$ whoami
-  Anees Imran / @Omeganees
-
-$ cat philosophy.txt
-  Make it work.
-  Give it character.
-  Refine until it feels right.
-
-$ ping human
-  softrunch.com
-  anees.imran@outlook.com
-```
+<a href="mailto:anees.imran@outlook.com"><img src="./assets/04-connect.svg" width="100%" alt="04 / Next transmission. Have a beautifully unreasonable idea? Skip the polished pitch. Tell me the part you cannot stop thinking about. Email anees.imran@outlook.com." /></a>
 
 <details>
-<summary><strong>▸ Open the linter's incident report</strong></summary>
+<summary>Read the transmission as text</summary>
 
-<br>
+### Beneath the surface
 
+The handle is **Omeganees**. The curiosity is personal. I'm **Anees Imran**. I like the moment an idea stops being a sketch and starts answering back. A strange little interaction. One detail you almost miss. Then you notice it — and try it again.
 
-```text
-[INFO]  Developer detected.
-[WARN]  Conventional thinking not found.
-[INFO]  Attempting to file a warning...
-[FAIL]  Warning intimidated by source code.
-[ OK ]  Proceed with curiosity.
-```
+### The build loop
 
-<sub>A fictional incident. The linter is fine. Probably.</sub>
+Every good rabbit hole starts with **“what if?”**
+
+1. **Chase it.** Start with the idea that will not leave you alone.
+2. **Make it real.** Trade a perfect imaginary thing for a working, imperfect one.
+3. **Give it soul.** Tune the small details until it feels unmistakable.
+
+Useful enough to keep. Strange enough to remember.
+
+### Completely unofficial incident report
+
+The linter has entered witness protection.
+
+- **00:01** Source code detected. Confidence: unreasonable.
+- **00:02** Warning prepared. Warning reconsidering its career.
+- **00:03** Developer says: “Okay, but hear me out.”
+- **00:04** Curiosity wins. Another experiment begins.
+
+Fictional incident. Real commitment to making the details count.
+
+### Next transmission
+
+Have a beautifully unreasonable idea? Skip the polished pitch. Tell me the part you cannot stop thinking about.
+
+[Softrunch](https://softrunch.com) · [Say hello](mailto:anees.imran@outlook.com) · [Explore](https://github.com/Omeganees?tab=repositories)
 
 </details>
-
-<br>
-
----
-
-<p align="center">
-  <sub>HAVE AN INTERESTING IDEA?</sub><br><br>
-  <a href="mailto:anees.imran@outlook.com"><strong>Let's make something with character. ↗</strong></a><br><br>
-  <sub>ANEES IMRAN &nbsp; / &nbsp; OMEGANEES &nbsp; / &nbsp; Ω</sub>
-</p>
